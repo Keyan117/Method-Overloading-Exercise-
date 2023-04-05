@@ -14,8 +14,7 @@
         }
 
 
-        //* the boolean parameter is equal to true, the Add method will return the sum of the 2 numbers
-        //* plus the word "dollars" at the end of the string./*
+        /* the boolean parameter is equal to true, the Add method will return the sum of the 2 numbers* plus the word "dollars" at the end of the string.*/
             
         public static string Add(int num1, int num2, bool isTrue)
         {
